@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,300&family=Rowdies:wght@300&display=swap');
+
+
+
+body{
+    text-align:center;
+    background-color: #ECF6FD;
+}
+
+h1{
+    font-family: 'Rowdies', cursive;
+    font-size: 50px;
+    letter-spacing: 2px;
+    color: #1E2634;
+    text-transform: uppercase;
+    background-color:#1474B8;
+    padding-top: 10px;
+    padding-bottom:5px;
+}
+h2{
+    color: #34425B;
+    font-size: 25px;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+p{
+    font-size: 18px;
+    font-family: 'Roboto Condensed', sans-serif;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px
+}
+
+a{
+    text-transform: uppercase;
+    font-family: 'Rowdies', cursive;
+    color: #57ADEF;
+    background-color:#1474B8;
+    padding: 2px 5px 2px 5px;
+}
+
+#image{
+    height: 300px;
+    max-width: 100%;
+}
+
+#img-caption {
+    font-family: 'Roboto-Condensed', sans-serif;
+    font-size: 13px;
+    padding-top: 5px;
+}
+
+#tribute-link{
+    font-size: 13px;
+}
+.color{
+    background-color: #B1B1A9;
+    width: 100%;
+}
